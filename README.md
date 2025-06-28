@@ -40,8 +40,8 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1.  Clone the repository:
 
     ```bash
-    git clone <Your Repository URL Here>
-    cd <Your Project Directory>
+    git clone https://github.com/harshrajshs/TT-Tournament.git
+    cd TT-Tournament
     ```
 
 2.  Install the necessary dependencies:
