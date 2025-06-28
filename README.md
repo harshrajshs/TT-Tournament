@@ -4,7 +4,7 @@ This is a React.js application developed for the SHS Table Tennis Tournament.
 
 ## 🌐 Visit the Website
 
-Check out the live site here: [Your IIT Counselling Helper](https://shstabletennistournament.netlify.app/)
+Check out the live site here: [Table Tennis Tournament](https://shstabletennistournament.netlify.app/)
 
 ## Table of Contents
 
